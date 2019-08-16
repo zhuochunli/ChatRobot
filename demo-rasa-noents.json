@@ -1,0 +1,233 @@
+{
+  "rasa_nlu_data": {
+    "entity_examples": [
+      {
+        "text": "hey", 
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "howdy", 
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "hey there", 
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "hello", 
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet", 
+        "entities": []
+      }, 
+      {
+        "text": "i'm looking for a stock to query", 
+        "intent": "ask", 
+        "entities": []
+      }, 
+      {
+        "text": "i'm looking for a stock in America", 
+        "intent": "ask", 
+        "entities": []
+      }, 
+      {
+        "text": "show me stock information", 
+        "intent": "ask", 
+        "entities": []
+      }, 
+      {
+        "text": "i want to query stock", 
+        "intent": "ask", 
+        "entities": []
+      }, 
+      {
+        "text": "i wanna query stock", 
+        "intent": "ask", 
+        "entities": []
+      }, 
+      {
+        "text": "i need query stock", 
+        "intent": "ask", 
+        "entities": []
+      }, 
+      {
+        "text": "i need stock information", 
+        "intent": "ask", 
+        "entities": []
+      }, 
+      {
+        "text": "yes", 
+        "intent": "affirm", 
+        "entities": []
+      }, 
+      {
+        "text": "yep", 
+        "intent": "affirm", 
+        "entities": []
+      }, 
+      {
+        "text": "yeah", 
+        "intent": "affirm", 
+        "entities": []
+      }, 
+      {
+        "text": "bye", 
+        "intent": "bye", 
+        "entities": []
+      }, 
+      {
+        "text": "goodbye", 
+        "intent": "bye", 
+        "entities": []
+      }, 
+      {
+        "text": "good bye", 
+        "intent": "bye", 
+        "entities": []
+      }, 
+      {
+        "text": "stop", 
+        "intent": "bye", 
+        "entities": []
+      }, 
+      {
+        "text": "end", 
+        "intent": "bye", 
+        "entities": []
+      }, 
+      {
+        "text": "no,thanks", 
+        "intent": "bye", 
+        "entities": []
+      }, 
+      {
+        "text": "indeed", 
+        "intent": "affirm", 
+        "entities": []
+      }, 
+      {
+        "text": "that's right", 
+        "intent": "affirm", 
+        "entities": []
+      }, 
+      {
+        "text": "ok", 
+        "intent": "affirm", 
+        "entities": []
+      }, 
+      {
+        "text": "great", 
+        "intent": "affirm", 
+        "entities": []
+      }
+    ], 
+    "intent_examples": [
+      {
+        "text": "hey", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "howdy", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey there", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "i'm looking for a stock to query", 
+        "intent": "ask"
+      }, 
+      {
+        "text": "i'm looking for a stock in America", 
+        "intent": "ask"
+      },
+      {
+        "text": "show me stock information", 
+        "intent": "ask"
+      }, 
+      {
+        "text": "i want to query stock", 
+        "intent": "ask"
+      }, 
+      {
+        "text": "i wanna query stock", 
+        "intent": "ask"
+      }, 
+      {
+        "text": "i need query stock", 
+        "intent": "ask"
+      }, 
+      {
+        "text": "i need stock information", 
+        "intent": "ask"
+      }, 
+      {
+        "text": "yes", 
+        "intent": "affirm" 
+      }, 
+      {
+        "text": "yep", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "yeah", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "bye", 
+        "intent": "bye" 
+      }, 
+      {
+        "text": "goodbye", 
+        "intent": "bye" 
+      }, 
+      {
+        "text": "good bye", 
+        "intent": "bye"
+      }, 
+      {
+        "text": "stop", 
+        "intent": "bye" 
+      }, 
+      {
+        "text": "end", 
+        "intent": "bye" 
+      }, 
+      {
+        "text": "no,thanks", 
+        "intent": "bye"
+      }, 
+      {
+        "text": "indeed", 
+        "intent": "affirm" 
+      }, 
+      {
+        "text": "that's right", 
+        "intent": "affirm"
+      }, 
+      {
+        "text": "ok", 
+        "intent": "affirm" 
+      }, 
+      {
+        "text": "great", 
+        "intent": "affirm" 
+      }
+    ]
+  }
+}
