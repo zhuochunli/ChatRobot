@@ -1,6 +1,8 @@
 # ChatRobot
 This is a smart stock query robot which you can ask on Wechat
 
+demo: https://drive.google.com/file/d/17ENolLFSSOT4kXmresiJIqNyM8N5gQ0k/view?usp=share_link
+
 这是一个可以帮你查询股票信息的机器人，你可以通过三种方式输入信息：
 
 1、静态输入，提前输入好至数组中。
